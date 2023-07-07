@@ -1,9 +1,9 @@
 ﻿Hi 👋, my name's Roberto Lacabanne
 A passionate Full Stack Web Developer from Argentina
-pedromirandan
 
 
-🔭 I’m currently working on my portfolio, so you'll need to wait a little longer to see all my projects.
+
+🔭 portfolio https://robertolacabanne.github.io/myPortfolio/
 
 🌱 I’m currently learning some NextJS and Typescript,Ract-Native. I think it may be useful for some projects🤫.
 
